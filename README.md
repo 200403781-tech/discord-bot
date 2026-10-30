@@ -1,1 +1,1 @@
-# discord-bot
+I am developing a Discord bot that recommends movies and TV series to server members. The bot will use TMDB to discover titles and retrieve their names, release dates, descriptions, posters, backdrops, and streaming availability by country. Users can request random recommendations or filter suggestions by genre and streaming platform. Saudi Arabia will be the default country, with an option to change it. The bot will display TMDB attribution and use caching, request limits, and timeouts to reduce unnecessary API traffic.
